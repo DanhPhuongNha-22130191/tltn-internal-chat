@@ -1,0 +1,3 @@
+dependencies {
+    // Shared utilities can go here (Logback, Commons, etc.)
+}
