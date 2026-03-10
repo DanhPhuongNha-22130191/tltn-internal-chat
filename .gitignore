@@ -47,7 +47,7 @@ Thumbs.db
 
 # =========================
 
-# Environment files
+# Environment
 
 # =========================
 
@@ -67,7 +67,7 @@ Thumbs.db
 
 # =========================
 
-# Database files
+# Database
 
 # =========================
 
@@ -83,3 +83,4 @@ Thumbs.db
 
 docker-data/
 *.pid
+
