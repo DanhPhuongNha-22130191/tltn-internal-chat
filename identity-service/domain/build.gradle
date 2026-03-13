@@ -1,5 +1,3 @@
 dependencies {
-    implementation project(':shared')
-    
-    // Pure java dependencies if needed
+    // Only pure Java dependencies for Domain
 }
