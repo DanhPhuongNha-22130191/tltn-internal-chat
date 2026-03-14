@@ -1,5 +1,6 @@
 rootProject.name = 'identity-service'
 
+include 'api'
 include 'shared'
 include 'domain'
 include 'application'
